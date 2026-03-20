@@ -1,7 +1,7 @@
 apiVersion: backstage.io/v1alpha1
 kind: Component
 metadata:
-  name: "android-music-player"
+  name: "sonos-music-player"
   description: "Spotify's Android music player service with legacy recommendation engine"
   annotations:
     github.com/project-slug: external-spotify-portal-demo/android-music-player
