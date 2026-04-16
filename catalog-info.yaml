@@ -12,4 +12,5 @@ spec:
   type: service
   lifecycle: production
   owner: "user:default/joecombopiano"
-  dependsOn: "legacy-recommendation-engine"
+  dependsOn:
+    - "legacy-recommendation-engine"
