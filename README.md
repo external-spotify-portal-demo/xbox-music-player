@@ -1,6 +1,6 @@
-# Android Music Player
+# Xbox Music Player
 
-Spotify's Android music player service — handles playback, playlists, and track recommendations using the legacy recommendation engine.
+Spotify's Xbox music player service — handles playback, playlists, and track recommendations using the legacy recommendation engine.
 
 ## Quick Start
 
