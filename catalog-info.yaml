@@ -4,10 +4,10 @@ metadata:
   name: "xbox-music-player"
   description: "Spotify's Xbox music player service with legacy recommendation engine"
   annotations:
-    github.com/project-slug: external-spotify-portal-demo/android-music-player
+    github.com/project-slug: external-spotify-portal-demo/xbox-music-player
     backstage.io/techdocs-ref: dir:.
     github.com/org: external-spotify-portal-demo
-    github.com/repo: android-music-player
+    github.com/repo: xbox-music-player
 spec:
   type: service
   lifecycle: production
