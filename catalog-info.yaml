@@ -13,4 +13,4 @@ spec:
   lifecycle: production
   owner: "user:default/joecombopiano"
   dependsOn:
-    - "legacy-recommendation-engine"
+    - "component:legacy-recommendation-engine"
